@@ -1,8 +1,15 @@
 # DDDoS
 ## Contents
+```
+1. Introduction
+2. Pre-requisite Installations
+3. More about file structure
+4. Project and Implementation
+5. Results
+```
 
 ## Introduction
-
+This repository consists of all the files related to the final project of the course CS3543: Computer Networks 2
 
 ## Pre-requisite Installations
 Follow  the below commands on a terminal to install the required pre-requisites for the working of the code
@@ -31,6 +38,12 @@ sudo make install
 https://github.com/r-richter/hyenae
 
 ```
+Refer to the below image for the steps of installation:
 ![Untitled presentation](https://user-images.githubusercontent.com/74396985/166516485-1e070697-763e-4b82-bd54-39be19bb8000.png)
 
 
+## More about file structure
+
+## Project and Implementation
+
+## Results
