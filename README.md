@@ -49,7 +49,7 @@ Refer to the below image for the steps of installation:
 ## Project and Implementation
 
 
-Refer to the Project report regarding 
+Refer to the Project report regarding the implementation and results
 
 ## Developers / Team Members
 
