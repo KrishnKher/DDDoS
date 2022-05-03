@@ -1,15 +1,17 @@
 # DDDoS
+This repository consists of all the files related to the final project of the course CS3543: Computer Networks 2
 ## Contents
 ```
 1. Introduction
 2. Pre-requisite Installations
 3. More about file structure
 4. Project and Implementation
-5. Results
+5. Team Members
 ```
 
 ## Introduction
-This repository consists of all the files related to the final project of the course CS3543: Computer Networks 2
+
+In this project, we attempt to develop a prototype framework that efficiently detects DDoS intrusions in real time networks based on modern Deep Learning based methods. We also try to go one step further and explore certain existing implementations for preventing/mitigating certain kinds of DDoS attacks. Finally we also present a new idea (to the best of our knowledge) for converting resource-targeting DDoS attacks to bandwidth-targeting DDoS attacks, so that the prevention/mitigation procedures applied for bandwidth-targeting DDoS attacks can be applied to resource-targeting DDoS attacks as well.
 
 ## Pre-requisite Installations
 Follow  the below commands on a terminal to install the required pre-requisites for the working of the code
@@ -46,4 +48,7 @@ Refer to the below image for the steps of installation:
 
 ## Project and Implementation
 
-## Results
+
+Refer to the Project report regarding 
+
+## Team Members
