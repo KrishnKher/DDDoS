@@ -1,4 +1,4 @@
-# DDDoS
+# Modern methods of Detecting DDoS attacks in SDN
 This repository consists of all the files related to the final project of the course CS3543: Computer Networks 2
 ## Contents
 ```
@@ -45,6 +45,8 @@ Refer to the below image for the steps of installation:
 
 
 ## More about file structure
+All the relevant code files can be found in the Code folder
+All the latex files used to make report can be found in Latex_files folder
 
 ## Project and Implementation
 
